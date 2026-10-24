@@ -9,7 +9,7 @@ Repositorio con los trabajos prácticos y parciales realizados durante la carrer
 | Carpeta | Materia | Lenguajes |
 |---------|---------|-----------|
 | [`metodos_numericos/`](./metodos_numericos/) | Métodos Numéricos | Fortran 90, GNUplot, Bash |
-| [`especialidad_ecm/`](./especialidad_ecm/) | Especialidad Computacional en Materia Condensada (ECM) | Fortran 90, GNUplot |
+| [`electronica_cuantica_molecular/`](./electronica_cuantica_molecular/) | Electrónica Cuántica Molecular (ECM) | Fortran 90, GNUplot |
 | [`redes_neuronales/`](./redes_neuronales/) | Redes Neuronales | Python (NumPy, SciPy, Matplotlib, PyTorch) |
 
 ---
@@ -24,7 +24,7 @@ Implementaciones de los métodos numéricos fundamentales en **Fortran 90** con 
 - Cubic Spline
 - Scripts de GNUplot para visualización científica
 
-## ⚛️ Especialidad: Computación en Materia Condensada (ECM)
+## ⚛️ Electrónica Cuántica Molecular (ECM)
 
 Simulaciones de sistemas cuánticos en **Fortran 90** con análisis gráfico en **GNUplot**:
 

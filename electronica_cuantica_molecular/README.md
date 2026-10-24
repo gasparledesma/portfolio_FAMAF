@@ -1,6 +1,6 @@
-# Especialidad: Computación en Materia Condensada (ECM) — FAMAF-UNC
+# Electrónica Cuántica Molecular (ECM) — FAMAF-UNC
 
-Trabajos prácticos y parciales de la materia **Especialidad Computacional en Materia Condensada**, implementados en **Fortran 90** con visualización en **GNUplot**.
+Trabajos prácticos y parciales de la materia **Electrónica Cuántica Molecular**, implementados en **Fortran 90** con visualización en **GNUplot**.
 
 La materia aborda el estudio numérico de sistemas cuánticos de baja dimensionalidad: función de Green, transporte cuántico, densidad de estados y sistemas oscilatorios acoplados.
 
